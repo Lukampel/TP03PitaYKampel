@@ -9,6 +9,8 @@ public static void InicializarDiscos()
         Artista artista1 = new Artista(1, "Kaytranada");
         Productor productor1 = new Productor(01, "Kaytranada");
         Disco disco1 = new Disco(001 ,artista1, productor1, "/Images/timeless.jpg", "Electrónica", "Timeless", new DateTime(2024, 6, 7));
+        Cancion cancion1 = new Cancion("git a");
+        disco1.agregarCancionesAlaLista();
 
         Artista artista2 = new Artista(2, "Kanye West");
         Productor productor2 = new Productor(02, "Mike Dean");

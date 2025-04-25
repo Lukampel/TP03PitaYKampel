@@ -24,6 +24,10 @@ public Disco (int id, Artista Artista, Productor Productor, string Foto, string 
          listaCanciones=new List<Cancion>();
     }
 
+public void agregarCancionesAlaLista(Cancion cancion){
+    listaCanciones.Add(cancion);   
+}
+
 
 }
 
