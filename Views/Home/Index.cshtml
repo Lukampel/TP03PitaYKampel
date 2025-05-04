@@ -1,8 +1,25 @@
 ﻿@{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Discos";
 }
 
+<header>
+<h1>Rami y Lu "El mejor Grupo"</h1>
+     <img src="/Images/LOGO.png" alt="Logo">
+     </header>
+<main>
 <div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+    
+     @foreach (Disco disco in ViewBag.Discos.Values) 
+     {
+        <article>
+       <p>El nombre del disco es @disco.nombreAlbum</p>
+       </article>
+       <a href = '@Url.Action("SelectIntegrante", new{dni=@integrante.DNI})' alt = "Ir a datos del artista"> Ir al artista</a>
+        <p> </p>
+        <a href = '@Url.Action("MostrarDatosFamiliares", new{dni=@integrante.DNI})' alt = "Ir a datos del productor"> Ir al productor</a>
+        <p> </p>
+        <a href = '@Url.Action("MostrarDatosInteres",new{dni=@integrante.DNI})' alt = "Ir a las canciones"> Ir a las canciones </a>
+     } 
+     
 </div>
+
