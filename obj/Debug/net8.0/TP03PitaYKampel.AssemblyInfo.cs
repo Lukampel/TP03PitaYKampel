@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP03PitaYKampel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222dc0139d6e1ab9995d43b0d107ed7e6c95ff9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9ec771e91c7827e24b148db1c411eec17b6323b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP03PitaYKampel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP03PitaYKampel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,35 +34,4 @@ public class HomeController : Controller
 
         return View("infoDisco");
     }
-    public IActionResult MostarArtista(int dni)
-    {
-        ViewBag.Disco = Discos.devolverDiccionario();
-        if (ViewBag.Disco.ContainsKey(dni))
-        {
-            ViewBag.infoArtista = Discos.devolverDiccionario()[dni].artista;
-            ViewBag.DNI = dni;
-        }
-        else
-        {
-            ViewBag.Error = "Error, el artista no existe";
-        }
-
-        return View("infoArtista");
-    }
-    public IActionResult MostrarProductor(int dni)
-    {
-        ViewBag.Disco = Discos.devolverDiccionario();
-        if (ViewBag.integrantes.ContainsKey(dni))
-        {
-            ViewBag.infoProductor = Discos.devolverDiccionario()[dni].productor;
-            ViewBag.DNI = dni;
-        }
-        else
-        {
-            ViewBag.Error = "Error, el productor no existe";
-        }
-
-        return View("infoProductor");
-    }
-    
 }

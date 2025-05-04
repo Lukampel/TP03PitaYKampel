@@ -12,13 +12,11 @@
      @foreach (Disco disco in ViewBag.Discos.Values) 
      {
         <article>
+        <img src = "@disco.foto" alt = "Potada">
        <p>El nombre del disco es @disco.nombreAlbum</p>
        </article>
-       <a href = '@Url.Action("SelectIntegrante", new{dni=@integrante.DNI})' alt = "Ir a datos del artista"> Ir al artista</a>
-        <p> </p>
-        <a href = '@Url.Action("MostrarDatosFamiliares", new{dni=@integrante.DNI})' alt = "Ir a datos del productor"> Ir al productor</a>
-        <p> </p>
-        <a href = '@Url.Action("MostrarDatosInteres",new{dni=@integrante.DNI})' alt = "Ir a las canciones"> Ir a las canciones </a>
+       <a href = '@Url.Action("infoDisco", new{ID=@disco.ID})' alt = "Ir a datos del disco"> Ir los datos del disco</a>
+        
      } 
      
 </div>

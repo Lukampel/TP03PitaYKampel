@@ -1,0 +1,8 @@
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.AssemblyInfo.cs
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.RazorAssemblyInfo.cache
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.RazorAssemblyInfo.cs
+C:\Users\diego\Documents\GitHub\TP03PitaYKampel\obj\Debug\net8.0\TP03PitaYKampel.sourcelink.json
