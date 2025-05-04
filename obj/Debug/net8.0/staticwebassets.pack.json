@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\Colores.jpg",
+      "PackagePath": "staticwebassets\\Images\\Colores.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\Dimetrap.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dimetrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\HechoAmano.jpg",
+      "PackagePath": "staticwebassets\\Images\\HechoAmano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\MBDTF.jpg",
+      "PackagePath": "staticwebassets\\Images\\MBDTF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\Ocean.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ocean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\RHLM.jpg",
+      "PackagePath": "staticwebassets\\Images\\RHLM.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\Rodeo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Rodeo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\TNS.png",
+      "PackagePath": "staticwebassets\\Images\\TNS.png"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\YHLQMDLG.jpg",
+      "PackagePath": "staticwebassets\\Images\\YHLQMDLG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\Images\\timeless.jpg",
+      "PackagePath": "staticwebassets\\Images\\timeless.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP03PitaYKampel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP03PitaYKampel.props",
+      "PackagePath": "build\\TP03PitaYKampel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP03PitaYKampel.props",
+      "PackagePath": "buildMultiTargeting\\TP03PitaYKampel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP03PitaYKampel.props",
+      "PackagePath": "buildTransitive\\TP03PitaYKampel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

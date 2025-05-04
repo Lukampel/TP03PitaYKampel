@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {}
+    "C:\\Users\\Ramir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Documents\\GitHub\\TP03PitaYKampel\\TP03PitaYKampel.csproj",
+      "projectUniqueName": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\TP03PitaYKampel.csproj",
       "projectName": "TP03PitaYKampel",
-      "projectPath": "C:\\Users\\diego\\Documents\\GitHub\\TP03PitaYKampel\\TP03PitaYKampel.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Documents\\GitHub\\TP03PitaYKampel\\obj\\",
+      "projectPath": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\TP03PitaYKampel.csproj",
+      "packagesPath": "C:\\Users\\Ramir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ramir\\OneDrive\\Documentos\\GitHub\\TP03PitaYKampel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

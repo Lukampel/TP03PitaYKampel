@@ -28,7 +28,7 @@ public class Discos
 
         Artista artista4 = new Artista(4, "JID");
         Productor productor4 = new Productor(04, "J. Cole");
-        Disco disco4 = new Disco(004, artista4, productor4, "/Images/TNS.jpg", "Hip Hop", "The Never Story", new DateTime(2017, 3, 10));
+        Disco disco4 = new Disco(004, artista4, productor4, "/Images/TNS.png", "Hip Hop", "The Never Story", new DateTime(2017, 3, 10));
          agregarDisco4(disco4);
 
         Artista artista5 = new Artista(5, "Bad Bunny");
@@ -209,7 +209,204 @@ Cancion cancion01 = new Cancion("Dark Fantasy", "	4:40");
         disco4.agregarCancionesAlaLista(cancion11);
 
     }
-    static public void agregarDisco5(Disco disco5) {
-        
+    static public void agregarDisco5(Disco disco5) 
+    {
+        Cancion cancion1 = devolverCancion("Si Veo a Tu Mamá", "2:50");
+Cancion cancion2 = devolverCancion("La Difícil", "2:59");
+Cancion cancion3 = devolverCancion("Pero Ya No", "3:47");
+Cancion cancion4 = devolverCancion("La Santa (feat. Daddy Yankee)", "3:26");
+Cancion cancion5 = devolverCancion("Yo Perreo Sola", "3:16");
+Cancion cancion6 = devolverCancion("Bichiyal (feat. Yaviah)", "3:17");
+Cancion cancion7 = devolverCancion("Soliá", "3:33");
+Cancion cancion8 = devolverCancion("La Zona", "2:47");
+Cancion cancion9 = devolverCancion("Que Malo (feat. Ñengo Flow)", "3:26");
+Cancion cancion10 = devolverCancion("Vete", "3:12");
+Cancion cancion11 = devolverCancion("Ignorantes (feat. Sech)", "3:32");
+Cancion cancion12 = devolverCancion("A Tu Merced", "2:54");
+Cancion cancion13 = devolverCancion("Una Vez (feat. Mora)", "2:43");
+Cancion cancion14 = devolverCancion("Safaera (feat. Jowell & Randy and Ñengo Flow)", "4:55");
+Cancion cancion15 = devolverCancion("25/8", "2:56");
+Cancion cancion16 = devolverCancion("Está Cabrón Ser Yo (feat. Anuel AA)", "3:00");
+Cancion cancion17 = devolverCancion("Puesto Pa' Guerrial", "2:57");
+Cancion cancion18 = devolverCancion("P FKN R (feat. Kendo Kaponi and Arcángel)", "3:44");
+Cancion cancion19 = devolverCancion("Hablamos Mañana (feat. Duki and Pablo Chill-E)", "3:39");
+Cancion cancion20 = devolverCancion("<3", "3:34");
+
+disco5.agregarCancionesAlaLista(cancion1);
+disco5.agregarCancionesAlaLista(cancion2);
+disco5.agregarCancionesAlaLista(cancion3);
+disco5.agregarCancionesAlaLista(cancion4);
+disco5.agregarCancionesAlaLista(cancion5);
+disco5.agregarCancionesAlaLista(cancion6);
+disco5.agregarCancionesAlaLista(cancion7);
+disco5.agregarCancionesAlaLista(cancion8);
+disco5.agregarCancionesAlaLista(cancion9);
+disco5.agregarCancionesAlaLista(cancion10);
+disco5.agregarCancionesAlaLista(cancion11);
+disco5.agregarCancionesAlaLista(cancion12);
+disco5.agregarCancionesAlaLista(cancion13);
+disco5.agregarCancionesAlaLista(cancion14);
+disco5.agregarCancionesAlaLista(cancion15);
+disco5.agregarCancionesAlaLista(cancion16);
+disco5.agregarCancionesAlaLista(cancion17);
+disco5.agregarCancionesAlaLista(cancion18);
+disco5.agregarCancionesAlaLista(cancion19);
+disco5.agregarCancionesAlaLista(cancion20);
+    }
+
+    static public void agregarDisco6(Disco disco6) 
+    {
+        Cancion cancion1 = devolverCancion("Amarillo", "2:43");
+Cancion cancion2 = devolverCancion("Azul", "2:45");
+Cancion cancion3 = devolverCancion("Rojo", "3:36");
+Cancion cancion4 = devolverCancion("Rosa", "2:56");
+Cancion cancion5 = devolverCancion("Morado", "2:51");
+Cancion cancion6 = devolverCancion("Verde", "2:50");
+Cancion cancion7 = devolverCancion("Negro", "3:00");
+Cancion cancion8 = devolverCancion("Gris", "2:51");
+Cancion cancion9 = devolverCancion("Arcoíris (feat. Mr Eazi)", "2:55");
+Cancion cancion10 = devolverCancion("Blanco", "2:26");
+
+disco6.agregarCancionesAlaLista(cancion1);
+disco6.agregarCancionesAlaLista(cancion2);
+disco6.agregarCancionesAlaLista(cancion3);
+disco6.agregarCancionesAlaLista(cancion4);
+disco6.agregarCancionesAlaLista(cancion5);
+disco6.agregarCancionesAlaLista(cancion6);
+disco6.agregarCancionesAlaLista(cancion7);
+disco6.agregarCancionesAlaLista(cancion8);
+disco6.agregarCancionesAlaLista(cancion9);
+disco6.agregarCancionesAlaLista(cancion10);
+    }
+
+static public void agregarDisco7(Disco disco7) 
+{
+    Cancion cancion1 = devolverCancion("Ocean", "3:33");
+Cancion cancion2 = devolverCancion("Love with a Quality (feat. Damian Marley)", "3:45");
+Cancion cancion3 = devolverCancion("Baby", "3:40");
+Cancion cancion4 = devolverCancion("Punto G", "3:36");
+Cancion cancion5 = devolverCancion("Culpables (feat. Anuel AA)", "3:35");
+Cancion cancion6 = devolverCancion("Dices Que Te Vas (feat. Anuel AA)", "3:28");
+Cancion cancion7 = devolverCancion("La Vida Continuó", "3:09");
+Cancion cancion8 = devolverCancion("Mi Cama (Remix)", "3:34");
+Cancion cancion9 = devolverCancion("Créeme (feat. Maluma)", "3:23");
+Cancion cancion10 = devolverCancion("Pineapple", "3:27");
+Cancion cancion11 = devolverCancion("Ocean (Acoustic)", "3:33");
+Cancion cancion12 = devolverCancion("Ocean (Remix)", "3:33");
+Cancion cancion13 = devolverCancion("Ocean (Piano Version)", "3:33");
+Cancion cancion14 = devolverCancion("Ocean (Live)", "3:33");
+Cancion cancion15 = devolverCancion("Ocean (Instrumental)", "3:33");
+Cancion cancion16 = devolverCancion("Ocean (Extended Version)", "3:33");
+
+disco7.agregarCancionesAlaLista(cancion1);
+disco7.agregarCancionesAlaLista(cancion2);
+disco7.agregarCancionesAlaLista(cancion3);
+disco7.agregarCancionesAlaLista(cancion4);
+disco7.agregarCancionesAlaLista(cancion5);
+disco7.agregarCancionesAlaLista(cancion6);
+disco7.agregarCancionesAlaLista(cancion7);
+disco7.agregarCancionesAlaLista(cancion8);
+disco7.agregarCancionesAlaLista(cancion9);
+disco7.agregarCancionesAlaLista(cancion10);
+disco7.agregarCancionesAlaLista(cancion11);
+disco7.agregarCancionesAlaLista(cancion12);
+disco7.agregarCancionesAlaLista(cancion13);
+disco7.agregarCancionesAlaLista(cancion14);
+disco7.agregarCancionesAlaLista(cancion15);
+disco7.agregarCancionesAlaLista(cancion16);
+}
+static public void agregarDisco8(Disco disco8) 
+{
+    Cancion cancion1 = devolverCancion("Na' Nuevo", "3:22");
+Cancion cancion2 = devolverCancion("Quiere Beber", "3:04");
+Cancion cancion3 = devolverCancion("Hipócrita (feat. Zion)", "3:49");
+Cancion cancion4 = devolverCancion("Modo Avión", "3:00");
+Cancion cancion5 = devolverCancion("Bandolera", "3:10");
+Cancion cancion6 = devolverCancion("Pensando en Ti (feat. Wisin)", "3:28");
+Cancion cancion7 = devolverCancion("Brindemos (feat. Ozuna)", "3:27");
+Cancion cancion8 = devolverCancion("Espina", "3:38");
+Cancion cancion9 = devolverCancion("Tú No Lo Amas", "3:33");
+Cancion cancion10 = devolverCancion("Naturaleza", "3:38");
+Cancion cancion11 = devolverCancion("Las Yeezy (feat. Ñengo Flow)", "3:36");
+Cancion cancion12 = devolverCancion("Te Necesito", "3:34");
+
+disco8.agregarCancionesAlaLista(cancion1);
+disco8.agregarCancionesAlaLista(cancion2);
+disco8.agregarCancionesAlaLista(cancion3);
+disco8.agregarCancionesAlaLista(cancion4);
+disco8.agregarCancionesAlaLista(cancion5);
+disco8.agregarCancionesAlaLista(cancion6);
+disco8.agregarCancionesAlaLista(cancion7);
+disco8.agregarCancionesAlaLista(cancion8);
+disco8.agregarCancionesAlaLista(cancion9);
+disco8.agregarCancionesAlaLista(cancion10);
+disco8.agregarCancionesAlaLista(cancion11);
+disco8.agregarCancionesAlaLista(cancion12);
+}
+static public void agregarDisco9(Disco disco9) 
+{
+    Cancion cancion1 = devolverCancion("DESFILAR MIS PENAS", "2:31");
+Cancion cancion2 = devolverCancion("BARDOS Y VERDADES", "1:47");
+Cancion cancion3 = devolverCancion("COMO TIENE QUE SER", "2:37");
+Cancion cancion4 = devolverCancion("CALOR", "2:31");
+Cancion cancion5 = devolverCancion("FULL ICE", "2:27");
+Cancion cancion6 = devolverCancion("NEGOCIANDO POR TIEMPO", "2:28");
+Cancion cancion7 = devolverCancion("BUENOS AIRES ES AMOR", "2:45");
+Cancion cancion8 = devolverCancion("DONDE LAS LUCES", "2:34");
+Cancion cancion9 = devolverCancion("ALMA", "2:36");
+Cancion cancion10 = devolverCancion("PARA SACÁRMELO", "2:33");
+Cancion cancion11 = devolverCancion("TANTAS TENTACIONES", "2:50");
+
+disco9.agregarCancionesAlaLista(cancion1);
+disco9.agregarCancionesAlaLista(cancion2);
+disco9.agregarCancionesAlaLista(cancion3);
+disco9.agregarCancionesAlaLista(cancion4);
+disco9.agregarCancionesAlaLista(cancion5);
+disco9.agregarCancionesAlaLista(cancion6);
+disco9.agregarCancionesAlaLista(cancion7);
+disco9.agregarCancionesAlaLista(cancion8);
+disco9.agregarCancionesAlaLista(cancion9);
+disco9.agregarCancionesAlaLista(cancion10);
+disco9.agregarCancionesAlaLista(cancion11);
+}
+static public void agregarDisco10(Disco disco10) 
+{
+    Cancion cancion1 = devolverCancion("Pornography", "3:51");
+Cancion cancion2 = devolverCancion("Oh My Dis Side (feat. Quavo)", "5:51");
+Cancion cancion3 = devolverCancion("3500 (feat. Future & 2 Chainz)", "7:41");
+Cancion cancion4 = devolverCancion("Wasted (feat. Juicy J)", "3:55");
+Cancion cancion5 = devolverCancion("90210 (feat. Kacy Hill)", "5:39");
+Cancion cancion6 = devolverCancion("Pray 4 Love (feat. The Weeknd)", "5:07");
+Cancion cancion7 = devolverCancion("Nightcrawler (feat. Swae Lee & Chief Keef)", "5:21");
+Cancion cancion8 = devolverCancion("Piss on Your Grave (feat. Kanye West)", "2:46");
+Cancion cancion9 = devolverCancion("Antidote", "4:22");
+Cancion cancion10 = devolverCancion("Impossible", "4:02");
+Cancion cancion11 = devolverCancion("Maria I'm Drunk (feat. Justin Bieber & Young Thug)", "5:49");
+Cancion cancion12 = devolverCancion("Flying High (feat. Toro y Moi)", "3:28");
+Cancion cancion13 = devolverCancion("I Can Tell", "3:55");
+Cancion cancion14 = devolverCancion("Apple Pie", "3:39");
+Cancion cancion15 = devolverCancion("Ok Alright (feat. Schoolboy Q)", "6:57");
+Cancion cancion16 = devolverCancion("Never Catch Me", "2:56");
+
+disco10.agregarCancionesAlaLista(cancion1);
+disco10.agregarCancionesAlaLista(cancion2);
+disco10.agregarCancionesAlaLista(cancion3);
+disco10.agregarCancionesAlaLista(cancion4);
+disco10.agregarCancionesAlaLista(cancion5);
+disco10.agregarCancionesAlaLista(cancion6);
+disco10.agregarCancionesAlaLista(cancion7);
+disco10.agregarCancionesAlaLista(cancion8);
+disco10.agregarCancionesAlaLista(cancion9);
+disco10.agregarCancionesAlaLista(cancion10);
+disco10.agregarCancionesAlaLista(cancion11);
+disco10.agregarCancionesAlaLista(cancion12);
+disco10.agregarCancionesAlaLista(cancion13);
+disco10.agregarCancionesAlaLista(cancion14);
+disco10.agregarCancionesAlaLista(cancion15);
+disco10.agregarCancionesAlaLista(cancion16);
+}
+
+public static Dictionary<int, Disco> devolverDiccionario() {
+        return discos;
     }
 }
