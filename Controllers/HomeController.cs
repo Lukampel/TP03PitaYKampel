@@ -24,7 +24,7 @@ public class HomeController : Controller
         ViewBag.discos = Discos.devolverDiccionario();
         if (ViewBag.discos.ContainsKey(id))
         {
-            ViewBag.discos = Discos.devolverDiccionario()[id];
+            ViewBag.disco = Discos.devolverDiccionario()[id];
             ViewBag.ID = id;
         }
         else

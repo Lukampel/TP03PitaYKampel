@@ -1,16 +1,21 @@
-<img src="/img/@ViewBag.disco.Foto" class="imagen-disco" alt="Foto" width="300" height="auto">
-<h1>
-@ViewBag.disco.Nombre
-</h1>
-<h3>
-@ViewBag.disco.Artista.Nombre
-</h3>
-@foreach(Cancion Cancion in ViewBag.disco.Cancion)
+
+<section>
+<img src="@ViewBag.disco.foto" width="300">
+</section>
+
+
+<h1>@ViewBag.disco.nombreAlbum</h1>
+<h3>@ViewBag.disco.artista.Nombre</h3>
+
+
+@foreach(Cancion cancion in ViewBag.disco.listaCanciones)
 {
-<li>
- @Cancion.Nombre @Cancion.Duracion
-</li>
+    <li>@cancion.Nombre - @cancion.Duracion</li>
 }
-<h4>
-@ViewBag.disco.Productor.Nombre
-<h4>
+
+<h4>Productor: @ViewBag.disco.productor.Nombre</h4>
+
+
+
+<p><a href='@Url.Action("Index")'>Volver a la página principal </p>
+

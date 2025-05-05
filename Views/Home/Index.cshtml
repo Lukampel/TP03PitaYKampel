@@ -6,14 +6,13 @@
 <main>
 <div>
     
-     @foreach (Disco disco in ViewBag.Discos.Values) 
+     @foreach (Disco disco in ViewBag.discos.Values) 
      {
         <article>
         <img src = "@disco.foto" alt = "Portada" width="300" height="auto">
-       <p>@disco.nombreAlbum</p>
-       </article>
-       <a href = '@Url.Action("infoDisco", new{id=@disco.ID})' alt = "Ir a datos del disco"> Ir los datos del disco</a>
-        
+       <p>@disco.nombreAlbum</p> 
+       <a href = '@Url.Action("SelectDisco", new{id=@disco.ID})' alt = "Ir a datos del disco"> Ir los datos del disco</a>
+        </article>
      } 
      
 </div>

@@ -12,12 +12,38 @@ html {
 body {
   margin: 10px;
   padding: 10px;
+  background-color: #212222;
 }
 
 
 footer {
   margin-top: 10px;
   padding: 10px;
-  background-color: #f8f9fa;
+  background-color: #212222;
   border-top: 1px solid #e9ecef;
+  clear: both;
 }
+
+h1, h3, h4, p, li {
+  color: #d89f34;
+  
+}
+h1, h3, h4, li {
+  text-align: center;
+  
+}
+
+main div article{
+  float: left;
+  padding: 2%;
+}
+
+a {
+  color: #d89f34;
+}
+
+section img {
+  margin-left: 40%;
+
+}
+
